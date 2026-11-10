@@ -1,0 +1,5 @@
+name: "test-case-writing"
+title: "Test case writing"
+description: "Write software test cases directly from whatever materials are given — requirement docs, UI designs, API docs, prototypes, existing case files, or verbal briefs — to the user's v2 standard: 14 fixed data fields, 14 scope dimensions, 8 design methods, 5 test types, P0 graded by failure consequence with a written reason. No project setup and no workflow stages: cases out, open questions listed with the delivery. Use when the user asks to write or extend test cases, 根据需求文档、UI 设计稿、接口文档、原型或口述直接编写、补充测试用例时使用。"
+category: "Work and knowledge"
+include_in_prompt: true
